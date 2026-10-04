@@ -50,13 +50,9 @@ STOP
 
 Demonstration Screenshot
 
-### Screenshot 1
+- [Open Screenshot 1](./screenshot 1.png)
 
-![Screenshot 1](screenshots/screenshot 1.png)
-
-### Screenshot 2
-
-![Screenshot 2](screenshots/screenshot 2.png)
+- [Open Screenshot 2](./screenshot 2.png)
 
 
 
@@ -68,6 +64,8 @@ Creating a Python package
 Publisher and subscriber nodes
 Launch files
 Git and GitHub basics
+
+
 
 
 
