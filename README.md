@@ -47,11 +47,16 @@ SLOW
 STOP
 
 
+
 Demonstration Screenshot
 
-/home/nitish/ros2_ws/src/roboracer_safety_controller/Screenshot 1.png
+### Screenshot 1
 
-/home/nitish/ros2_ws/src/roboracer_safety_controller/screenshot 2.png
+![Screenshot 1](screenshots/screenshot 1.png)
+
+### Screenshot 2
+
+![Screenshot 2](screenshots/screenshot 2.png)
 
 
 
@@ -63,6 +68,7 @@ Creating a Python package
 Publisher and subscriber nodes
 Launch files
 Git and GitHub basics
+
 
 
 
